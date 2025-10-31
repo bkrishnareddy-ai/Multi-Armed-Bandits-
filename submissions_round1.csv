@@ -1,0 +1,10 @@
+timestamp,name,strategy,details,steps,seed_env,seed_agent,total_reward
+2025-10-31T21:13:51.480385,Krishna,epsilon_greedy_decaying,decay_eps=0.5->0.05,3000,42,123,2582
+2025-10-31T21:14:09.445912,Krishna,epsilon_greedy_decaying,decay_eps=0.5->0.05,3000,42,123,2582
+2025-10-31T21:14:47.063009,krishna ,epsilon_greedy,fixed_eps=0.1,2000,42,123,1862
+2025-10-31T21:15:40.205738,Krishna 2,epsilon_greedy,fixed_eps=0.2,3000,42,456,2687
+2025-10-31T21:16:08.762432,Krishna 3,epsilon_greedy_decaying,decay_eps=0.8->0.05,4000,42,789,3244
+2025-10-31T21:16:42.880854,Krishna 4,epsilon_greedy,fixed_eps=0.05,4000,42,999,3754
+2025-10-31T21:17:47.915389,Krishna 5,epsilon_greedy_decaying,decay_eps=1.0->0.1,5000,42,2025,3826
+2025-10-31T21:18:30.077830,Krishna 6,epsilon_greedy,fixed_eps=0.15,2500,42,777,2271
+2025-10-31T21:18:40.298812,Krishna 6,epsilon_greedy,fixed_eps=0.15,2500,42,777,2271
